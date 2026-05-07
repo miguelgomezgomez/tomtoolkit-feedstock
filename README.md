@@ -145,4 +145,5 @@ Feedstock Maintainers
 * [@davner](https://github.com/davner/)
 * [@jchate6](https://github.com/jchate6/)
 * [@phycodurus](https://github.com/phycodurus/)
+* [@iguelgomezgomez](https://github.com/miguelgomezgomez)
 
